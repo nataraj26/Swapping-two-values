@@ -31,8 +31,8 @@ y=a
 print("Swapped values are:",n,y)
 ~~~
 
-## OUTPUT:
-![output](stv.png)
+## OUTPUT
+(<Screenshot 2023-10-20 091057.png>))
     
 
 
