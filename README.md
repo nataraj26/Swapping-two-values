@@ -32,7 +32,7 @@ print("Swapped values are:",n,y)
 ~~~
 
 ## OUTPUT
-(<Screenshot 2023-10-20 091057.png>))
+[!output].(<Screenshot 2023-10-20 091057-2.png>)
     
 
 
