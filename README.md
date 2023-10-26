@@ -32,7 +32,8 @@ print("Swapped values are:",n,y)
 ~~~
 
 ## OUTPUT
-![output](stv-1.png)
+![stv](https://github.com/nataraj26/Swapping-two-values/assets/147514615/3692578d-6714-41ff-ab2a-55a59d5a5eef)
+
     
 
 
